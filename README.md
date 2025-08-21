@@ -15,8 +15,8 @@ It is **not runnable**, ProjectSettings and Packages are excluded.
 - โฟลเดอร์ `Assets/` ทั้งหมด
   - Animation, Prefab, Script
   - ภาพ 2D, icon, sprite
-  - เสียง (sound) ที่ตัดเอง
-- **.gitignore** ที่กรอง Library, Logs, Packages, ProjectSettings, UserSettings และไฟล์ temporary อื่น ๆ
+  - เสียง (sound)
+- **.gitignore** ไม่เอา Library, Logs, Packages, ProjectSettings, UserSettings และไฟล์ temporary อื่น ๆ
 
 ## ไม่มี (ไม่สามารถ clone project ไปรันได้นะ)
 - ProjectSettings/
