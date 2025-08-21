@@ -1,3 +1,6 @@
+⚠️ **Assets-Only Backup** — This repo contains only the Assets and Scripts.  
+It is **not runnable**, ProjectSettings and Packages are excluded.
+
 # POP Assets-Only Backup
 
 นี่คือ **Assets-only backup ของโปรเจกต์เกม POP  
